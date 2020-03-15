@@ -17,3 +17,7 @@
 ## 4. Conclusion
 ### How to improve the model
 ### Perspectives que ça offre, implications business
+
+## 5. Video
+### Link to the project's video:
+### https://www.youtube.com/watch?v=2kOvVbvXTL0
