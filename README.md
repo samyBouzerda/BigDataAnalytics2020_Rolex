@@ -5,12 +5,11 @@ Project repository of the Team Rolex, Project 1 of Big Scale Analysis. Image Cla
 Master: Information Systems - HEC Lausanne - 2020
 
 
-## The Team Rolex
-* Alexandre Lang
-* Samy Bouzerda
-* Samuel Lew
-* Alix Muller
-
+## The Team Rolex - Contributions
+* Samuel LEW: Image recognition explanations, conclusion, video editing & participant
+* Alexandre LANG: Tutorial explanations (2nd part), video participant
+* Samy BOUZERDA: Coding, tutorial explanations (3rd part), video participant
+* Alix MULLER: Introduction, tutorial explanations (1st part), Readme, video participant
 
 ## The Project
 This project is mainly a presentation and a tutorial of the service **Custom Vision**, from Microsoft Azure. It provides enough information to enable a beginner to use this service, and create his/her own project by following the video or notebook.
